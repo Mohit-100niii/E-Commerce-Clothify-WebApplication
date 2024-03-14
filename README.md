@@ -12,6 +12,10 @@ Fully Responsive React.JS front-end for seamless user experience.
 
 [![Screenshot-2023-10-11-183553.png](https://i.postimg.cc/jS1MhRGh/Screenshot-2023-10-11-183553.png)](https://postimg.cc/HrQ0Y1WJ)
 [![Screenshot-2023-10-11-183801.png](https://i.postimg.cc/GtN45Sr6/Screenshot-2023-10-11-183801.png)](https://postimg.cc/0KY56nzC)
+![image](https://github.com/Mohit-100niii/E-Commerce-Clothify-WebApplication/assets/84673402/7dcee538-157e-43b6-8579-c532c90cf7a4)
+![image](https://github.com/Mohit-100niii/E-Commerce-Clothify-WebApplication/assets/84673402/a088f2cf-9cfa-423a-bbdb-ccb2f876849b)
+
+
 
 
 ## Technologies Used
